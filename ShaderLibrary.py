@@ -1,7 +1,10 @@
+#Import bpy
+import bpy
+
 
 #Info that can be added from object add on template
-
-bl_info = {
+bl_info = 
+{
     "name": "Shader Library",
     "version": (1, 0),
     "blender": (2, 93, 0),
@@ -9,14 +12,8 @@ bl_info = {
     "description": "Adds a new Shader to Object",
     "warning": "",
     "wiki_url": "",
-    "category": "Add Shader",
+    "category": "Add Shader"
 }
-
-
-#Import bpy
-
-import bpy
-
 
 #Creating main panel
 
